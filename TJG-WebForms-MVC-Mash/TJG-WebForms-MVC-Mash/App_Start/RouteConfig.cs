@@ -10,7 +10,9 @@ namespace TJG_WebForms_MVC_Mash
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
-            routes.EnableFriendlyUrls();
+            var settings = new FriendlyUrlSettings();
+            settings.AutoRedirectMode = RedirectMode.Permanent;
+            routes.EnableFriendlyUrls(settings);
         }
     }
 }
