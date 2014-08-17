@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using System.Web.Security;
-using TJG_WebForms_MVC_Mash;
 
 namespace TJG_WebForms_MVC_Mash
 {
@@ -14,6 +11,7 @@ namespace TJG_WebForms_MVC_Mash
         void Application_Start(object sender, EventArgs e)
         {
             // Code that runs on application startup
+            AreaRegistration.RegisterAllAreas();
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterOpenAuth();
             RouteConfig.RegisterRoutes(RouteTable.Routes);

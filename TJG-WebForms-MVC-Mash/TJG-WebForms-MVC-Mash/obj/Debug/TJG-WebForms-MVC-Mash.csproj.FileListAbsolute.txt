@@ -38,3 +38,15 @@ F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-
 F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\Newtonsoft.Json.xml
 F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Optimization.xml
 F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Providers.xml
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Helpers.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Mvc.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Razor.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.WebPages.Deployment.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.WebPages.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.WebPages.Razor.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Helpers.xml
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Mvc.xml
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.Razor.xml
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.WebPages.xml
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.WebPages.Deployment.xml
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\System.Web.WebPages.Razor.xml
