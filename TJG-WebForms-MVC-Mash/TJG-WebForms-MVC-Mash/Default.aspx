@@ -35,5 +35,7 @@
             You can easily find a web hosting company that offers the right mix of features and price for your applications.
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
+
+        <% TJG_WebForms_MVC_Mash.MvcHelpers.MVCUtility.RenderAction("Admin", "Index", new TJG_WebForms_MVC_Mash.Areas.Test.Models.AdminModel { Test = "hehehehe" }); %>
     </ol>
 </asp:Content>
