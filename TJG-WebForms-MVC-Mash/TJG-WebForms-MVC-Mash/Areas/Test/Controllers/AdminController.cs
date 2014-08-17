@@ -7,7 +7,7 @@ namespace TJG_WebForms_MVC_Mash.Areas.Test.Controllers
     {
         public ActionResult Index()
         {
-            return View(new AdminModel{Test = "lalalala"});
+            return View(new AdminModel { Test = "lalalala" });
         }
     }
 }
