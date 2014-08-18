@@ -252,6 +252,7 @@
     <Content Include="packages.config" />
     <Content Include="Areas\Test\Views\Web.config" />
     <Content Include="Areas\Test\Views\Admin\Index.cshtml" />
+    <Content Include="Areas\Test\Views\Shared\_SuperP.cshtml" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.1.js" />
     <Content Include="Scripts\jquery-2.1.1.min.js" />
@@ -382,10 +383,10 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
+    <Compile Include="WebFormMVCUtil.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Areas\Test\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\Web.config" />
