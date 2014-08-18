@@ -103,3 +103,5 @@ C:\Users\simon.colmer\Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Ma
 C:\Users\simon.colmer\Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\obj\Debug\TJG-WebForms-MVC-Mash.csprojResolveAssemblyReference.cache
 C:\Users\simon.colmer\Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\obj\Debug\TJG-WebForms-MVC-Mash.dll
 C:\Users\simon.colmer\Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\obj\Debug\TJG-WebForms-MVC-Mash.pdb
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\Externalv2.dll
+F:\My Documents\GitHub\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash\bin\Externalv2.pdb
