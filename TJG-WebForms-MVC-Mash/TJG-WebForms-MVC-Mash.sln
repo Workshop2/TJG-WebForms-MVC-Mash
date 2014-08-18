@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJG-WebForms-MVC-Mash", "TJG-WebForms-MVC-Mash\TJG-WebForms-MVC-Mash.csproj", "{D4372F24-74D3-4507-A546-25F94918D1CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "External.Library", "External.Library\External.Library.csproj", "{A58B86CF-1119-4873-AC81-A637B9D9F178}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{D4372F24-74D3-4507-A546-25F94918D1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4372F24-74D3-4507-A546-25F94918D1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4372F24-74D3-4507-A546-25F94918D1CC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A58B86CF-1119-4873-AC81-A637B9D9F178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A58B86CF-1119-4873-AC81-A637B9D9F178}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A58B86CF-1119-4873-AC81-A637B9D9F178}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A58B86CF-1119-4873-AC81-A637B9D9F178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

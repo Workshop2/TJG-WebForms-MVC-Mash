@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
-using External.Library.Areas.Test.Models;
+using TJG_WebForms_MVC_Mash.Areas.Test.Models;
 
-namespace External.Library.Areas.Test.Controllers
+namespace TJG_WebForms_MVC_Mash.Areas.Test.Controllers
 {
     public class AdminController : Controller
     {

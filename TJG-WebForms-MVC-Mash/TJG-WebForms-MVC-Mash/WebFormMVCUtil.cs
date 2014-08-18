@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
-using External.Library.Areas.Test.Controllers;
+using TJG_WebForms_MVC_Mash.Areas.Test.Controllers;
 
 namespace TJG_WebForms_MVC_Mash
 {
