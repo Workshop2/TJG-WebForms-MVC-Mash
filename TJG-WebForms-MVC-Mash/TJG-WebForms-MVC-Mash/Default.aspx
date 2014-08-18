@@ -1,4 +1,5 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="TJG_WebForms_MVC_Mash._Default" %>
+<%@ Import Namespace="External.Library.Areas.Test.Models" %>
 
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
@@ -36,5 +37,5 @@
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
     </ol>
-    <% TJG_WebForms_MVC_Mash.WebFormMVCUtil.RenderPartial("_SuperP", new TJG_WebForms_MVC_Mash.Areas.Test.Models.AdminModel { Test = "this is my test" }); %>
+    <% TJG_WebForms_MVC_Mash.WebFormMVCUtil.RenderPartial("_SuperP", new AdminModel { Test = "this is my test" }); %>
 </asp:Content>

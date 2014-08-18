@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace TJG_WebForms_MVC_Mash.Areas.Test
+namespace External.Library.Areas.Test
 {
     public class TestAreaRegistration : AreaRegistration
     {
