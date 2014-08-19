@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
-using TJG_WebForms_MVC_Mash.Areas.Test.Controllers;
+//using TJG_WebForms_MVC_Mash.Areas.Test.Controllers;
 
 namespace TJG_WebForms_MVC_Mash
 {
@@ -16,10 +16,10 @@ namespace TJG_WebForms_MVC_Mash
 
             // create a mock route that points to the empty controller
             var routeData = new RouteData();
-            routeData.DataTokens.Add("area", "Test");
-            routeData.Values.Add("controller", "AdminController");
+            routeData.DataTokens.Add("area", "TestingBounds");
+            routeData.Values.Add("controller", "WebFormController");
 
-            var controller = new AdminController();
+            var controller = new WebFormController();
 
             // create a controller context for the route and http context
             var requestContext = new RequestContext(httpContextWrapper, routeData);

@@ -250,9 +250,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
-    <Content Include="Areas\Test\Views\Web.config" />
-    <Content Include="Areas\Test\Views\Admin\Index.cshtml" />
-    <Content Include="Areas\Test\Views\Shared\_SuperP.cshtml" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.1.js" />
     <Content Include="Scripts\jquery-2.1.1.min.js" />
@@ -341,9 +338,6 @@
       <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Areas\Test\Controllers\AdminController.cs" />
-    <Compile Include="Areas\Test\Models\AdminModel.cs" />
-    <Compile Include="Areas\Test\TestAreaRegistration.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

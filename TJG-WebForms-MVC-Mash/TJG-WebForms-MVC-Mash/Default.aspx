@@ -36,5 +36,5 @@
             <a href="http://go.microsoft.com/fwlink/?LinkId=245143">Learn more…</a>
         </li>
     </ol>
-    <% TJG_WebForms_MVC_Mash.WebFormMVCUtil.RenderPartial("_SuperP", new TJG_WebForms_MVC_Mash.Areas.Test.Models.AdminModel { Test = "this is my test" }); %>
+    <% TJG_WebForms_MVC_Mash.WebFormMVCUtil.RenderPartial("_ExternalView", new AnotherAttempt.Areas.TestingBounds.Models.TestingBoundModel() { HeyHo= "LETS GO" }); %>
 </asp:Content>
